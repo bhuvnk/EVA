@@ -18,10 +18,10 @@
 
 ## Centroids On Normalized data
 
-![Centroids On Normalized data](https://raw.githubusercontent.com/bhuvnk/EVA/master/Assignment19/centroids.png?token=AEHPN6RCSMYZBUIYLUGA2RK5ZVYG4)
+![](https://github.com/bhuvnk/EVA/blob/master/Assignment19/centroids.png)
 
 ## Few Examples of Annotations
 
-1. ![](https://raw.githubusercontent.com/bhuvnk/EVA/master/Assignment19/annotation%20example1.PNG?token=AEHPN6VMCE5OG2SXLB6NDUC5ZVYMQ)
+1. ![](https://github.com/bhuvnk/EVA/blob/master/Assignment19/annotation%20example1.PNG)
 
-2. ![](https://raw.githubusercontent.com/bhuvnk/EVA/master/Assignment19/annotation%20example2.PNG?token=AEHPN6X6DBH7WSQ6QBGZE5S5ZVYMQ)
+2. ![](https://github.com/bhuvnk/EVA/blob/master/Assignment19/annotation%20example2.PNG)
