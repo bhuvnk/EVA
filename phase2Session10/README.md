@@ -95,12 +95,15 @@ Continuous Action Space, with two actions with range [-20,20]
 ### Reward and done condition
 
 Reward:
+```python
         if the car is on the sand:
             reward = -1.5
         else: # being on road
             reward = -0.6
             if distance < last_distance:
                 reward = -0.01
+```
+
 Done:
 1. When car picks up the object and delivers.
 2. When Episode is over
