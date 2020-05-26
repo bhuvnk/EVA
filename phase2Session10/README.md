@@ -6,7 +6,7 @@
 
 Will update with a better video later.. maybe. Not sure.
 
-[![Watch the video](https://img.youtube.com/vi/qHL6q6XU57g/hqdefault.jpg)](https://www.youtube.com/watch?v=qHL6q6XU57g)
+[![Watch the video](https://img.youtube.com/vi/AyR6b9MxiUg/hqdefault.jpg)](https://www.youtube.com/watch?v=AyR6b9MxiUg)
 
 `gym_dabbewala/envs/dabbewala_env.py` : is the environment, can be modified if wished.
 
