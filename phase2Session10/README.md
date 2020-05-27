@@ -83,13 +83,13 @@ class AC_conv(nn.Module):
         return torch.nn.functional.avg_pool2d(x, kernel_size=3, stride=3) # 5x5 
 ```
 
-* This output later will be flattened to 25 and concatenated to other state values.
+* This output later will be flattened to 25 and concatenated with other state values.
 
 #### State2:
 
 - Second part of the state contains a vector of:
   `[distance, orientation, -orientation, angle, angle]`
-- This was an overkill, but these state values stayed in the code.
+- Using state values was an overkill, but hey don't fix it if it aint broken.
 - State1 and State2 are concatenated and fed into simple two layer DNN to Create Actor Networks
 
 ### Actions
@@ -110,7 +110,9 @@ Reward:
             reward = -0.6
             if distance < last_distance:
                 reward = -0.01
+                
 ```
+Positive reward only when car finished the final delivery.
 
 Done:
 1. When car picks up the object and delivers.
@@ -176,5 +178,3 @@ class Actor(AC_conv):
 ### Inference:
 
 * done locally after downloading the model weight files.
-
-
