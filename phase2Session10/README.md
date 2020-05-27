@@ -4,9 +4,10 @@
 
 ### Results 
 
-Will update with a better video later.. maybe. Not sure.
+Version v0
 
-[![Watch the video](https://img.youtube.com/vi/AyR6b9MxiUg/hqdefault.jpg)](https://www.youtube.com/watch?v=AyR6b9MxiUg)
+[![Watch the video](https://img.youtube.com/vi/wf1G1UbQe-I/hqdefault.jpg)](https://www.youtube.com/watch?v=wf1G1UbQe-I)
+
 
 `gym_dabbewala/envs/dabbewala_env.py` : is the environment, can be modified if wished.
 
