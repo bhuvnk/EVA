@@ -3,8 +3,14 @@
 
 
 ### Results 
+Version v01:
+This video is recorded using the code and model weights files in this repo.
 
-Version v0
+[![Watch the video](https://img.youtube.com/vi/f_-1LgeG8FM/hqdefault.jpg)](https://www.youtube.com/watch?v=f_-1LgeG8FM)
+
+
+Version v0:
+Recorded from Older Version.
 
 [![Watch the video](https://img.youtube.com/vi/wf1G1UbQe-I/hqdefault.jpg)](https://www.youtube.com/watch?v=wf1G1UbQe-I)
 
