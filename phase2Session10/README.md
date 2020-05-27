@@ -5,6 +5,7 @@
 ### Results 
 Version v01:
 This video is recorded using the code and model weights files in this repo.
+Here `surr` shows the vision state of the car, and `LIDAR` is the **representation** of the final 5x5 embeddings.
 
 [![Watch the video](https://img.youtube.com/vi/f_-1LgeG8FM/hqdefault.jpg)](https://www.youtube.com/watch?v=f_-1LgeG8FM)
 
